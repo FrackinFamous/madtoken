@@ -35,6 +35,7 @@
 		"ghcr.io/devcontainers/features/github-cli:1": {
 			"installDirectlyFromGitHubRelease": true,
 			"version": "latest"
-		}
+		},
+		"ghcr.io/devcontainers-contrib/features/neovim-apt-get:1": {}
 	}
 }
